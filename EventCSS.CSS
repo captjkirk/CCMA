@@ -1,3 +1,8 @@
 .section.featured-sponsors {
     display: none !important;
 }
+.navbar[_ngcontent-tsl-c219] {
+
+     display: none;
+
+}
