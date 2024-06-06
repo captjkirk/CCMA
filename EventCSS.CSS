@@ -16,5 +16,7 @@ main.main.ng-star-inserted {
  display: none !important;
 }
 .title {
+  font-family: 'Playfair Display', serif;
   font-weight: bold;
 }
+
