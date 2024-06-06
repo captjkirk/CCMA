@@ -15,3 +15,6 @@ main.main.ng-star-inserted {
 .mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted{
  display: none !important;
 }
+.title {
+  font-weight: bold;
+}
