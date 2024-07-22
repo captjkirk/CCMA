@@ -1,4 +1,17 @@
-.get-ticket-button.ng-tns-c208-2 {
-    background-color: blueviolet;
+.mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted{
+ display: none !important;
+}
+.section.featured-sponsors {
+    display: none !important;
+}
+//Hide nav bar
+bt-master-event-ui-preview-header > header{
+    display: none !important;
+}
+main.main.ng-star-inserted {
+    padding-top: 0px !important;
 }
 
+.navbar.top-nav {
+    display: none !important;
+}
