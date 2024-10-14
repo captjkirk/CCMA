@@ -1,17 +1,20 @@
 .section.featured-sponsors {
     display: none !important;
 }
-//Hide nav bar
-bt-master-event-ui-preview-header > header{
-    display: none !important;
-}
-main.main.ng-star-inserted {
-    padding-top: 0px !important;
+
+.navbar-content {
+    content: url(https://images.freeimages.com/image/grids/4d8/x-twitter-light-blue-logo-5694248.png);
 }
 
-.navbar.top-nav {
-    display: none !important;
+.navbar {
+    background-color: transparent !important;
+    backdrop-filter: none !important;
 }
-.mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted{
- display: none !important;
+
+bt-master-event-ui-register-button.main-register-button.ng-star-inserted {
+    display: none;
+}
+
+button.mat-focus-indicator.mat-menu-trigger.language-selector-button.mat-button.mat-button-base {
+    display: none;
 }
